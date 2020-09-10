@@ -1,0 +1,8 @@
+{
+    "name": "dss-web/polylang-mu-subdir-fix",
+    "description": "polylang mu subdir fix",
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/dss-web/polylang-mu-subdir-fix",
+    "license": "GPL-2.0-or-later",
+    "require": {}
+}
